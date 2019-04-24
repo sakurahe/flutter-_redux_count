@@ -1,6 +1,6 @@
 # demo
 
-A new Flutter project.
+Flutter and redux count examples
 
 ## Getting Started
 
